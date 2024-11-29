@@ -1,4 +1,5 @@
 <?php
+/*Funcion para obtener si dos numeros son multiplos entre si*/
 include "esMultiplo.php";
     echo "Ingrese el primer número: "."\n";
     $num1 = trim(fgets(STDIN));
